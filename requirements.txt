@@ -1,0 +1,6 @@
+click
+fuzzywuzzy
+nameparser
+petl
+prettytable
+python-Levenshtein
